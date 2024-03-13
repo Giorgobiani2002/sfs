@@ -1,0 +1,93 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header img {
+  margin-left: 147px;
+  width: 182px;
+  height: 42px;
+}
+header nav ul {
+  display: flex;
+  margin-right: 107px;
+}
+header nav ul li {
+  margin: 0 10px;
+}
+header nav ul li {
+  list-style: none;
+}
+nav a {
+  text-decoration: none;
+  color: rgba(162, 157, 194, 1);
+  font-weight: 400px;
+  font-size: 28px;
+}
+.gap {
+  max-width: 1440px;
+  height: 58px;
+  background-color: rgba(162, 157, 194, 1);
+}
+.section1 img {
+  margin-top: 74px;
+  margin-left: 107px;
+}
+.container {
+  display: flex;
+}
+.container2 {
+  display: flex;
+  margin-top: 96px;
+}
+.container3 {
+  display: flex;
+  margin-top: 106px;
+}
+div {
+  background-color: rgba(235, 233, 251, 1);
+}
+.section1-two img {
+  margin-left: 115px;
+}
+.section1 p {
+  margin-top: 78px;
+  font-size: 26px;
+  width: 522px;
+  margin-left: 107px;
+}
+.section2 img {
+  margin-left: 81px;
+}
+.section2-two {
+  margin-left: 100px;
+  margin-top: 107px;
+}
+.section3 {
+  margin-top: 44px;
+  margin-left: 109px;
+}
+.section3-two {
+  margin-right: 102px;
+}
+
+.section2-two p {
+  margin-top: 74px;
+  margin-bottom: 20px;
+}
+.section3 p {
+  margin-top: 38px;
+  margin-bottom: 30px;
+}
+button {
+  background-color: rgba(162, 157, 194, 1);
+  width: 237px;
+  height: 50px;
+  border: 0;
+  border-radius: 30px;
+}
